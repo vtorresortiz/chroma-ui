@@ -1,5 +1,5 @@
 # chroma setup
-PoC using React, NodeJS and nodegui. App can set a static color for using in chroma mouse and keyboard from razer
+PoC using React, NodeJS and nodegui. App can set a static color to use in chroma mouse and keyboard from razer
 
 # Install dependencies
 npm install
