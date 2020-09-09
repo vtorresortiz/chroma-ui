@@ -7,5 +7,5 @@ npm install
 # Run the dev server
 npm run dev
 
-# Open andother terminal and run the app
+# Open another terminal and run the app
 npm start
